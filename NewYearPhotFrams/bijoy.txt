@@ -41,6 +41,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/square/frame_00009.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/square/frame-6.webp"
     ],
+    
   "landscape":[
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landscape/frame0.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landscape/frame1.webp",
@@ -50,7 +51,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/NewYear_Photo_Frame/landscape_hindi/year-frame12.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/NewYear_Photo_Frame/landsc/frame-18.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landframe/f5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/NewYear_Photo_Frame/landscape/frame-5.webp"
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/NewYear_Photo_Frame/landscape/frame-5.webp",
     
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/NewYear_Photo_Frame/landscape_hindi/year-frame2.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/NewYear_Photo_Frame/landscape_hindi/year-frame3.webp",
