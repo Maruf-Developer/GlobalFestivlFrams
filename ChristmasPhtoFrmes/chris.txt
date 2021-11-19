@@ -77,10 +77,6 @@
     ],
     
   "landscape":[
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ChristmasPhtoFrmes/land/fram-1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ChristmasPhtoFrmes/land/fram-2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ChristmasPhtoFrmes/land/fram-3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ChristmasPhtoFrmes/land/fram-4.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ChristmasPhtoFrmes/land/fram-5.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ChristmasPhtoFrmes/land/fram-6.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ChristmasPhtoFrmes/land/fram-7.webp",
@@ -101,6 +97,10 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ChristmasPhtoFrmes/land/fram-22.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ChristmasPhtoFrmes/land/fram-23.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ChristmasPhtoFrmes/land/fram-24.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ChristmasPhtoFrmes/land/fram-1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ChristmasPhtoFrmes/land/fram-2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ChristmasPhtoFrmes/land/fram-3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ChristmasPhtoFrmes/land/fram-4.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ChristmasPhtoFrmes/land/fram-25.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/ChristmasPhtoFrmes/land/fram-26.webp"
     ]
