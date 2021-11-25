@@ -1,5 +1,5 @@
 {
-  "portrait":[
+  "portrait4":[
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/NewYear_Photo_Frame/portrait/frm-3.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/NewYear_Photo_Frame/portrait/frm-4.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/NewYear_Photo_Frame/portrait/frm-1.webp",
@@ -21,7 +21,7 @@
     
     
     
-  "portrait1":[
+  "portrait":[
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port1/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port1/fram-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port1/fram-3.webp",
@@ -62,7 +62,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port2/fram-13.webp"
      
       ],
-       "portrait4":[
+       "portrait1":[
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port2/fram-14.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port2/fram-3.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/port2/fram-4.webp",
