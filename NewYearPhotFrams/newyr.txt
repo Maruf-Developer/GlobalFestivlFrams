@@ -1,5 +1,5 @@
 {
-  "portrait3":[
+  "portrait":[
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/NewYear_Photo_Frame/portrait/frm-3.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/NewYear_Photo_Frame/portrait/frm-4.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/NewYear_Photo_Frame/portrait/frm-1.webp",
