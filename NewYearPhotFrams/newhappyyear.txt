@@ -1,5 +1,5 @@
 {
-  "square":[
+  "square":[ 
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/sqr/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/sqr/fram-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/sqr/fram-3.webp",
