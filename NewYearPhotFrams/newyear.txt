@@ -1,5 +1,9 @@
 {
   "square":[
+ "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/squr2/fram-5.webp",
+ "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/squr2/fram-6.webp",
+ "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/squr2/fram-11.webp",
+ "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/squr2/fram-13.webp",
       "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/sqr/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/sqr/fram-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/sqr/fram-5.webp",
