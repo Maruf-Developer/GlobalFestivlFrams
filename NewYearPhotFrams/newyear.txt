@@ -164,7 +164,9 @@
 	
     ],
     
-  "landscape":[
+  "landscape":[     
+  "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/land3/fram-1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/land3/fram-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/land/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/land/fram-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewYearPhotFrams/land/fram-3.webp",
