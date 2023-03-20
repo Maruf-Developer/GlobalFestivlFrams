@@ -62,9 +62,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-7.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-8.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanPhotFrmes/squr/fram-5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanPhotFrmes/squr/fram-8.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanPhotFrmes/squr/fram-9.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanPhotFrmes/squr/fram-10.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-31.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanPhotFrmes/squr/fram-11.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-9.webp",
@@ -84,9 +82,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-39.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanPhotFrmes/squr/fram-16.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanMubarakPhtoFrm/squar/fram-35.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanPhotFrmes/squr/fram-19.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanPhotFrmes/squr/fram-25.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanPhotFrmes/squr/fram-26.webp"
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/RamadanPhotFrmes/squr/fram-19.webp"
     ],
     
     "squareA":[
