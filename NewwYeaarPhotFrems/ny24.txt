@@ -175,7 +175,7 @@
        ],
 
 
-   "landscape1":[
+   "landscape2":[
 
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_7.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_9.webp",
@@ -191,7 +191,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024/land2/frame_5.webp"
        ],
 
-   "landscape2":[
+   "landscape1":[
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land/fram (1).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land/fram (2).webp",
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/NewwYeaarPhotFrems/2024n/land/fram (3).webp",
