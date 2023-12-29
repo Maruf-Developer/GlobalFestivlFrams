@@ -106,6 +106,20 @@
    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-20.webp"
     
     ],
+  
+  "squareF1":[
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-2.webp"
+    
+    ],
+  
+  "squareF2":[
+    "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/GlobalFestivlFrams/main/EidMubaraakPhtoFram/squr/frm-4.webp"
+    
+    ],
    
   "portraitR":[
     "https://raw.githubusercontent.com/Maruf-Developer/GlobalPhotFram/main/RamadanPhoFram/port1/frame-1.webp",
